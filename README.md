@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="197" src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20149/544a8211f6091d588d00014e_NVIDIA_CUDA-web/NVIDIA_CUDA-web_mid.jpg">
+  <img width="350" height="197" src="https://www.itu.int/myitu/-/media/News/2019/Satellite/5-trends-in-satellite-communications-on-the-horizon-desktop.jpg?mh=476&h=476&w=1110&la=es&hash=CE1C54C8B78DE07548B4C1E35F64CAA6">
 </p> 
 
 # Accelerated-Satellite-image-denoising
