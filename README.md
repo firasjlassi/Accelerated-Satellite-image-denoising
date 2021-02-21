@@ -18,7 +18,7 @@ CUDA (Compute Unified Device Architecture) is a parallel computing platform and 
 computing platform and application programming interface model created by Nvidia. It allows software developers and software engineers to use a CUDA-enabled 
 graphics processing unit for general purpose processing – an approach termed GPGPU.
 
-# KNN Filter (Wiki)
+## KNN Filter (Wiki)
 
 Non-local means is an algorithm in image processing for image denoising. Unlike "local mean" filters, which take the mean value of a group of pixels surrounding a 
 target pixel to smooth the image, non-local means filtering takes a mean of all pixels in the image, weighted by how similar these pixels are to the target pixel. 
