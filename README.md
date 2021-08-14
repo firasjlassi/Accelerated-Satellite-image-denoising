@@ -1,7 +1,3 @@
-<p align="center">
-<img width="350" height="197" src="https://raw.githubusercontent.com/KalifiaBillal/Accelerated-Satellite-image-denoising/main/screenshots/Accelerated-Satellite-image-denoising.png">
-</p> 
-
 # Accelerated-Satellite-image-denoising
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kalifiabillal?color=yellow&label=kalifiabillal&style=for-the-badge">   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">   <img alt="Visual Studio App Center (Minimum) OS Version" src="https://img.shields.io/visual-studio-app-center/releases/osver/kalifiabillal/Android-Arduino-Automotive/a87b9e745655355612fff4418953e0c3f7074250?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kalifiabillal/Android-Arduino-Automotive?color=green&style=for-the-badge">   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/kalifiabillal/Android-Arduino-Automotive?style=for-the-badge">
